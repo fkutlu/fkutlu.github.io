@@ -1,3 +1,311 @@
 theme: jekyll-theme-minimal
 title: Dr. Ferhat KUTLU's homepage
 description: Bookmark this to keep an eye on my project updates!
+```yaml
+# Curriculum Vitae Data[cite: 1]
+personal_info:
+  name: "Dr. Ferhat KUTLU"[cite: 1]
+  title: "Cognitive AI Scientist"[cite: 1]
+  email: "fkutlu70@yahoo.com"[cite: 1]
+  location: "İstanbul / Türkiye"[cite: 1]
+  profiles:
+    - platform: "ORCID"[cite: 1]
+      url: ""
+    - platform: "Google Scholar"[cite: 1]
+      url: ""
+    - platform: "Medium"[cite: 1]
+      url: ""
+    - platform: "LinkedIn"[cite: 1]
+      url: ""
+    - platform: "YÖK AKADEMİK"[cite: 1]
+      url: ""
+
+summary: >
+  My graduation from the National Defense University, system engineering branch, is followed by six years in the army units[cite: 1].
+  The next three years were spent with an M.Sc. at the Bilkent University, Computer Engineering Department[cite: 1].
+  Since then, much knowledge has been gained within tens of ITC and research projects[cite: 1].
+  Parallel to those, a Ph.D. study is accomplished at the Middle East Technical University, Graduate School of Informatics, Cognitive Science Department[cite: 1].
+  Engaged in innovation projects about the areas of Cognitive-AI, Affective Computing, Federated Learning, Image Processing, Video Analytics, 3D, eXtended Reality, and electro-optic communication targeting pain-points in sustainability, energy efficiency, health informatics, and smart cities[cite: 1].
+
+core_skills:
+  - "A balanced blend of technical, academic, and managerial wisdom backed by years of experience to ensure the harmonization of all resources."[cite: 1]
+  - "Inclusive and experiential teaching."[cite: 1]
+  - "Researcher for project ideation, lean on AI and deep learning."[cite: 1]
+  - "Supported by decades of project experience, a competent combination of scientific approaches and contemporary management skills."[cite: 1]
+  - "International consortium building."[cite: 1]
+  - "Agile project management and performance evaluation by using OKRs."[cite: 1]
+
+education:
+  - degree: "PhD in Cognitive Science"[cite: 1]
+    institution: "METU (Middle East Technical University), Graduate School of Informatics"[cite: 1]
+    location: "ANKARA / TÜRKİYE"[cite: 1]
+    period: "2012 - 2023"[cite: 1]
+    details: >
+      Accomplished with the thesis "Identification of Discourse Relations in Turkish Discourse Bank" about Discourse Analysis for Natural Language Understanding fine-tune LLMs with the modern corpora and ML artefacts[cite: 1].
+  - degree: "MSc in Software Engineering (Including BS Completion)"[cite: 1]
+    institution: "Bilkent University"[cite: 1]
+    location: "ANKARA / TÜRKİYE"[cite: 1]
+    period: "1998 - 2001"[cite: 1]
+    details: >
+      Accomplished with the thesis "Categorization in a Hierarchically Structured Text Database" about Data Mining about Text Categorization Algorithms, implemented w/ C++, to build a task-specific decision tree trained on corpora derived from News Groups hierarchical data[cite: 1].
+  - degree: "Bachelor's in System Engineering"[cite: 1]
+    institution: "National Defense University"[cite: 1]
+    location: "ANKARA / TÜRKİYE"[cite: 1]
+    period: "1988 - 1992"[cite: 1]
+
+publications:
+  - title: "AI Support for Improving Managerial Decision-making Processes Regarding Workforce Planning"[cite: 1]
+    authors: "Kutlu, F."[cite: 1]
+    year: 2026[cite: 1]
+    booktitle: "Human Factors, Business Management and Society. AHFE (2026) International Conference"[cite: 1]
+    publisher: "AHFE Open Access, vol 215. AHFE International, USA"[cite: 1]
+    doi: "https://doi.org/10.54941/ahfe1007607"[cite: 1]
+  - title: "Toward a shallow discourse parser for Turkish"[cite: 1]
+    authors: "Kutlu, F., Zeyrek, D., & Kurfalı, M."[cite: 1]
+    year: 2023[cite: 1]
+    journal: "Natural Language Engineering, 1-26"[cite: 1]
+    publisher: "Cambridge University Press"[cite: 1]
+    doi: "10.1017/S1351324923000359"[cite: 1]
+  - title: "Categorization in a Hierarchically Structured Text Database"[cite: 2]
+    authors: "Ferhat Kutlu and H. A. Güvenir"[cite: 2]
+    year: 2001[cite: 2]
+    booktitle: "Proceedings of the Tenth Turkish Symposium on Artificial Intelligence and Neural Networks (TAINN 2001)"[cite: 2]
+    editors: "A. Acan, I. Aybay, and M. Salamah (Eds.)"[cite: 2]
+    location: "Gazimagusa, Turkish Republic of Northern Cyprus"[cite: 2]
+    pages: "218-227"[cite: 2]
+
+experience:
+  - role: "Lecturer"[cite: 2]
+    organization: "Beykoz University"[cite: 2]
+    location: "İSTANBUL / TÜRKİYE"[cite: 2]
+    period: "Sep 2026 - Ongoing"[cite: 2]
+    description: "Teach AI and software engineering courses in the AI Department of Engineering Faculty."[cite: 2]
+
+  - role: "Lecturer"[cite: 2]
+    organization: "Fenerbahçe University"[cite: 2]
+    location: "İSTANBUL / TÜRKİYE"[cite: 2]
+    period: "Aug 2025 - Aug 2026"[cite: 2]
+    description: "Teach software engineering courses in the Management Information Systems department of the Faculty of Economics, Administrative and Social Sciences."[cite: 2]
+
+  - role: "General Manager"[cite: 2]
+    organization: "Bahçeşehir University Innovation and Consultancy Inc."[cite: 2]
+    location: "İSTANBUL / TÜRKİYE"[cite: 2]
+    period: "Nov 2023 - Aug 2025"[cite: 2]
+    description: >
+      Co-author the project proposals towards the Ministry, EUREKA Clusters, and H-Europe[cite: 2]. Supervise the projects about water analytics, optical & electro-optical communication including product design, electronic HW, embedded SW, and cloud service development[cite: 2]. Monitor the effectiveness of research & development and improve[cite: 2]. Execute workflow of IP Rights, QA, and cooperate with stakeholders & legals[cite: 2]. Manage budgets and schedules in line with requirements and collaborate with peers[cite: 2]. Establish and execute quality plans, aligning with overall business objectives[cite: 2]. Lead researchers and innovators to develop new products and technologies[cite: 2]. Identify new opportunities for research and innovation in the market[cite: 2]. Represent the organization in external forums and build strategic partnerships[cite: 2].
+
+  - role: "Part-Time Instructor"[cite: 2]
+    organization: "Information Systems Department of Okan University Graduate School"[cite: 2]
+    location: "İSTANBUL / TÜRKİYE"[cite: 2]
+    period: "Oct 2023 - Feb 2024"[cite: 2]
+    description: "2023-24/Fall Management and Organization + Scientific Research Methods"[cite: 2]
+
+  - role: "R&D Advisor to Research Centers"[cite: 2]
+    period: "Nov 2022 – Nov 2023"[cite: 2]
+    description: >
+      Besides supervising the ongoing innovation projects, co-author the proposals toward funds from the Ministry, EUREKA Clusters, and H-Europe[cite: 2].
+    projects:
+      - name: "NADIR"[cite: 2]
+        url: "https://itea4.org/project/nadir.html"[cite: 2]
+
+  - role: "R&D Project Manager"[cite: 2]
+    organization: "KoçSistem Inc."[cite: 2]
+    location: "İSTANBUL / TÜRKİYE"[cite: 2]
+    period: "June 2018 – Nov 2022"[cite: 2]
+    description: >
+      Hundreds of document reviews and tens of project assessments as a member of the ITEA Steering Group[cite: 2]. Research to solve real-life problems and develop project scopes and objectives with a forward-thinking approach, involving all relevant stakeholders, performing risk management, and ensuring technical feasibility[cite: 2]. Detailed project plan and maintain comprehensive documentation, conforming to the resources[cite: 2]. Coordinate internal resources and third parties/vendors for the flawless execution, and collaborate with cross-functional teams and partners with commercial awareness[cite: 2]. Agile Project Management and ensure that all projects are delivered on time[cite: 2]. Hands on SW development experience parallel to management within the R&D&I projects, towards ITEA, Horizon and TÜBİTAK[cite: 2].
+    projects:
+      - name: "MOS2S"[cite: 2]
+        url: "https://itea4.org/project/mos2s.html"[cite: 2]
+      - name: "INSIST"[cite: 2]
+        url: "https://itea4.org/project/insist.html"[cite: 2]
+      - name: "F4ITECH"[cite: 2]
+        url: "https://www.celticnext.eu/project-f4itech/"[cite: 2]
+      - name: "CAPE"[cite: 2]
+        url: "https://itea4.org/project/cape.html"[cite: 2]
+      - name: "SINTRA"[cite: 2]
+        url: "https://itea4.org/project/sintra.html"[cite: 2]
+
+  - role: "R&D Manager"[cite: 3]
+    organization: "ENTES Electronic Inc."[cite: 3]
+    location: "İSTANBUL / TÜRKİYE"[cite: 3]
+    period: "Oct 2016 - Mar 2018"[cite: 3]
+    description: >
+      With an R&D Team of 40+ persons and subcontractor companies, managed projects with the theme "electric energy reactive power control and consumption optimization", including product design, electronic HW, embedded SW, and cloud service development plan HW & SW development projects and supervise the run in Agile Fashion by means of Jira & Confluence[cite: 3]. Manage budgets and schedules in line with requirements and collaborate with peers[cite: 3]. Establish and execute quality plans, aligning with overall business objectives[cite: 3].
+    projects:
+      - name: "SPEAR"[cite: 3]
+        url: "https://itea4.org/project/spear.html"[cite: 3]
+
+  - role: "R&D Head"[cite: 3]
+    organization: "AYMED Medical Inc."[cite: 3]
+    location: "İSTANBUL / TÜRKİYE"[cite: 3]
+    period: "Mar 2016 - Oct 2016"[cite: 3]
+    description: >
+      Research and develop software for Medical Electronics R&D projects in the concepts of Urology and Remote Patient Observation utilizing C#, .NET MVC, ASP.NET Web Forms, SQL, Oracle DB Servers, and Image Processing Libraries (DICOM, PACS, Eksor, OpenCV)[cite: 3].
+
+  - role: "R&D Engineer"[cite: 3]
+    organization: "SİSOFT Healthcare Inc."[cite: 3]
+    location: "ANKARA / TÜRKİYE"[cite: 3]
+    period: "Dec 2014 - May 2015"[cite: 3]
+    description: >
+      Manage Hospital Management Localization Project[cite: 3]. Research on Arrhythmia Detection with Wearable Devices (government-funded project)[cite: 3]. Develop back-end and front-end of medical device data processing implementing Java, JavaScript, HTML5, and Oracle DB Server for hospital management system with service-oriented architecture[cite: 3].
+
+  - role: "Researcher"[cite: 3]
+    organization: "METU Graduate School of Informatics"[cite: 3]
+    location: "ANKARA / TÜRKİYE"[cite: 3]
+    period: "Oct 2013 - July 2014"[cite: 3]
+    description: >
+      Research and implement image processing algorithms in .NET and MATLAB within "Anomaly Detection by Image Processing of Crowded Environment Video Surveillance"[cite: 3], and data processing algorithms in Java and R within "Emotion Recognition by Signal Processing of Smartphone Sensor Data"[cite: 3]. Conduct Cognitive AI experiments with audience using custom Android and Windows apps[cite: 3].
+
+  - role: "Product Owner & Project Manager + ITC Engineer"[cite: 3]
+    organization: "Ministry of Defense"[cite: 3]
+    location: "ANKARA / TÜRKİYE"[cite: 3]
+    period: "Sep 1998 - Oct 2012"[cite: 3]
+    description: >
+      Gained knowledge and improved wisdom in various IT projects' development, procurement, and management:
+      Land Force C4ISR projects (ADOP 2000 of ASELSAN, $3B budget)[cite: 3], Turkish General Staff HQ Integrated Logistics Support & ERP systems ($3M budget)[cite: 3], Strategic Level Simulation projects ($12M budget)[cite: 3], Operative-level warfare simulation training center installation (JANUS and JCATS on Linux)[cite: 3], Tactical level network building[cite: 3].
+
+abroad_missions:
+  - role: "Operations Centre Director"[cite: 4]
+    organization: "NATO KFOR"[cite: 4]
+    location: "PRIZREN / KOSOVO"[cite: 4]
+    period: "Nov 2007 - June 2008"[cite: 4]
+  - role: "Military Observer (Operations Planning Officer)"[cite: 4]
+    organization: "UN Mission in Georgia (UNOMIG)"[cite: 4]
+    period: "June - Dec 2003"[cite: 4]
+  - role: "Working Groups"[cite: 4]
+    organization: "Various NATO working groups on Integrated Logistics Support and Net Centric Warfare"[cite: 4]
+
+skills:
+  frameworks_libraries:
+    - "TensorFlow"[cite: 4]
+    - "Keras"[cite: 4]
+    - "PyTorch"[cite: 4]
+    - "OpenCV"[cite: 4]
+    - "YOLO"[cite: 4]
+    - "LLMs"[cite: 4]
+    - "NLP libraries"[cite: 4]
+    - "LaTeX (Overleaf)"[cite: 4]
+  programming_languages:
+    - "Python"[cite: 4]
+    - "R"[cite: 4]
+    - "Java"[cite: 4]
+    - "C++"[cite: 4]
+    - "C#"[cite: 4]
+    - "JavaScript"[cite: 4]
+  ides_tools:
+    - ".NET"[cite: 4]
+    - "Eclipse"[cite: 4]
+    - "PyCharm"[cite: 4]
+    - "IntelliJ"[cite: 4]
+    - "C++ Builder"[cite: 4]
+    - "Matlab"[cite: 4]
+    - "SPSS"[cite: 4]
+    - "R-Studio"[cite: 4]
+    - "SVN"[cite: 4]
+    - "Git"[cite: 4]
+  domain_concepts:
+    - "Data Science"[cite: 4]
+    - "Deep Learning"[cite: 4]
+    - "Decision Support"[cite: 4]
+    - "Modelling & Simulation tools and libraries"[cite: 4]
+  web_servers:
+    - "IBM WebSphere"[cite: 4]
+    - "IIS"[cite: 4]
+    - "Apache"[cite: 4]
+  databases:
+    - "MS Access"[cite: 4]
+    - "SQL"[cite: 4]
+    - "Oracle"[cite: 4]
+    - "TOAD"[cite: 4]
+    - "SQL Server"[cite: 4]
+  management_tools:
+    - "Jira"[cite: 4]
+    - "Confluence"[cite: 4]
+    - "MS Office"[cite: 4]
+    - "MS Project"[cite: 4]
+    - "Visio"[cite: 4]
+
+certificates:
+  - title: "Foundations of LLM Mastery: Fine-tuning on multi-GPUs"[cite: 4]
+    issuer: "Vienna Scientific Cluster"[cite: 4]
+    duration: "4 Hours"[cite: 4]
+    year: 2025[cite: 4]
+  - title: "Creative Artefacts"[cite: 4]
+    issuer: "Coursera"[cite: 4]
+    duration: "24 Hours"[cite: 4]
+    year: 2022[cite: 4]
+    credential_url: "coursera.org/verify/D8Y8GGKQD9DQ"[cite: 4]
+  - title: "Lead Remood, Performance Evaluation by OKRs"[cite: 4]
+    issuer: "Emeritus"[cite: 4]
+    duration: "36 Hours"[cite: 4]
+    year: 2022[cite: 4]
+  - title: "Innovation and emerging technology: Be Disruptive"[cite: 4]
+    issuer: "Coursera"[cite: 4]
+    duration: "24 Hours"[cite: 4]
+    year: 2021[cite: 4]
+    credential_url: "coursera.org/verify/MARPHVWHYL89"[cite: 4]
+  - title: "Intellectual Property (IP) Rights Course"[cite: 4]
+    issuer: "SOYLU IP Rights Advisory (İstanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "June 2017"[cite: 4]
+  - title: "Software Test Course"[cite: 4]
+    issuer: "BT Academy (İstanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "May 2017"[cite: 4]
+  - title: "Test Driven Development"[cite: 4]
+    issuer: "BT Academy (İstanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "May 2017"[cite: 4]
+  - title: "Agile Development and Scrum Course"[cite: 4]
+    issuer: "BT Academy (İstanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "April 2017"[cite: 4]
+  - title: "Enterprise Design Patterns Course"[cite: 4]
+    issuer: "BT Academy (Istanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "January 2017"[cite: 4]
+  - title: "R&D Management Course"[cite: 4]
+    issuer: "ETKİN R&D Advisory (İstanbul)"[cite: 4]
+    duration: "32 Hours"[cite: 4]
+    date: "January 2017"[cite: 4]
+  - title: "Applied Project Management Certificate (PMI)"[cite: 4]
+    issuer: "Defence Ministry R&D Centre (Ankara)"[cite: 4]
+    duration: "1 month"[cite: 4]
+    date: "December 2010"[cite: 4]
+  - title: "System Engineering Certificate"[cite: 4]
+    issuer: "Land Forces War College, Ankara"[cite: 4]
+    duration: "4 months"[cite: 4]
+    date: "June 1998"[cite: 4]
+
+languages:
+  - language: "Turkish"[cite: 4]
+    proficiency: "Native"[cite: 4]
+  - language: "English"[cite: 4]
+    proficiency: "Advanced"[cite: 4]
+
+references:
+  - name: "Prof. Dr. Halil Altay GÜVENİR"[cite: 4]
+    title: "Dean of Faculty of Applied Sciences at Bilkent University"[cite: 4]
+    location: "Ankara / Türkiye"[cite: 4]
+    email: "guvenir@cs.bilkent.edu.tr"[cite: 4]
+  - name: "Dr. Murathan KURFALI"[cite: 4]
+    title: "Department of Linguistics and Philology"[cite: 4]
+    institution: "Uppsala University"[cite: 4]
+    email: "murathan.kurfali@lingfil.uu.se"[cite: 4]
+  - name: "Prof. Dr. Olcay Taner YILDIZ"[cite: 4]
+    title: "Computer Engineering Department"[cite: 4]
+    institution: "Özyeğin University"[cite: 4]
+    location: "İstanbul / Türkiye"[cite: 4]
+    email: "olcay.yildiz@ozyegin.edu.tr"[cite: 4]
+
+hobbies:
+  - "Dog walking"[cite: 4]
+  - "Tennis"[cite: 4]
+  - "Swimming"[cite: 4]
+  - "Cycling"[cite: 4]
+  - "Jogging"[cite: 4]
+  - "Horse riding"[cite: 4]
+  - "Skiing"[cite: 4]
+
+```
