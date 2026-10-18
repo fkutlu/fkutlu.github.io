@@ -1,11 +1,7 @@
 theme: jekyll-theme-minimal
-title: Dr. Ferhat KUTLU's homepage
-# description: Bookmark this to keep an eye on my project updates!
-# personal_info:
-#  name: "Dr. Ferhat KUTLU"[cite: 1]
-  title: "Cognitive AI Scientist"
-  email: "fkutlu70@yahoo.com"
-  location: "İstanbul / Türkiye"
+title: Dr. Ferhat KUTLU: Cognitive AI Scientist
+email: fkutlu70@yahoo.com
+location: İstanbul / Türkiye
   profiles:
     - platform: "ORCID"[cite: 1]
       url: ""
@@ -17,7 +13,6 @@ title: Dr. Ferhat KUTLU's homepage
       url: ""
     - platform: "YÖK AKADEMİK"[cite: 1]
       url: ""
-
 summary:
   My graduation from the National Defense University, system engineering branch, is followed by six years in the army units[cite: 1].
   The next three years were spent with an M.Sc. at the Bilkent University, Computer Engineering Department[cite: 1].
