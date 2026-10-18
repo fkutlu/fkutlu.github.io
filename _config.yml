@@ -19,7 +19,7 @@ personal_info:
     - platform: "YÖK AKADEMİK"[cite: 1]
       url: ""
 
-summary: >
+summary:
   My graduation from the National Defense University, system engineering branch, is followed by six years in the army units[cite: 1].
   The next three years were spent with an M.Sc. at the Bilkent University, Computer Engineering Department[cite: 1].
   Since then, much knowledge has been gained within tens of ITC and research projects[cite: 1].
@@ -39,14 +39,12 @@ education:
     institution: "METU (Middle East Technical University), Graduate School of Informatics"[cite: 1]
     location: "ANKARA / TÜRKİYE"[cite: 1]
     period: "2012 - 2023"[cite: 1]
-    details: >
-      Accomplished with the thesis "Identification of Discourse Relations in Turkish Discourse Bank" about Discourse Analysis for Natural Language Understanding fine-tune LLMs with the modern corpora and ML artefacts[cite: 1].
+    details: Accomplished with the thesis "Identification of Discourse Relations in Turkish Discourse Bank" about Discourse Analysis for Natural Language Understanding fine-tune LLMs with the modern corpora and ML artefacts[cite: 1].
   - degree: "MSc in Software Engineering (Including BS Completion)"[cite: 1]
     institution: "Bilkent University"[cite: 1]
     location: "ANKARA / TÜRKİYE"[cite: 1]
     period: "1998 - 2001"[cite: 1]
-    details: >
-      Accomplished with the thesis "Categorization in a Hierarchically Structured Text Database" about Data Mining about Text Categorization Algorithms, implemented w/ C++, to build a task-specific decision tree trained on corpora derived from News Groups hierarchical data[cite: 1].
+    details: Accomplished with the thesis "Categorization in a Hierarchically Structured Text Database" about Data Mining about Text Categorization Algorithms, implemented w/ C++, to build a task-specific decision tree trained on corpora derived from News Groups hierarchical data[cite: 1].
   - degree: "Bachelor's in System Engineering"[cite: 1]
     institution: "National Defense University"[cite: 1]
     location: "ANKARA / TÜRKİYE"[cite: 1]
@@ -90,8 +88,7 @@ experience:
     organization: "Bahçeşehir University Innovation and Consultancy Inc."[cite: 2]
     location: "İSTANBUL / TÜRKİYE"[cite: 2]
     period: "Nov 2023 - Aug 2025"[cite: 2]
-    description: >
-      Co-author the project proposals towards the Ministry, EUREKA Clusters, and H-Europe[cite: 2]. Supervise the projects about water analytics, optical & electro-optical communication including product design, electronic HW, embedded SW, and cloud service development[cite: 2]. Monitor the effectiveness of research & development and improve[cite: 2]. Execute workflow of IP Rights, QA, and cooperate with stakeholders & legals[cite: 2]. Manage budgets and schedules in line with requirements and collaborate with peers[cite: 2]. Establish and execute quality plans, aligning with overall business objectives[cite: 2]. Lead researchers and innovators to develop new products and technologies[cite: 2]. Identify new opportunities for research and innovation in the market[cite: 2]. Represent the organization in external forums and build strategic partnerships[cite: 2].
+    description: Co-author the project proposals towards the Ministry, EUREKA Clusters, and H-Europe[cite: 2]. Supervise the projects about water analytics, optical & electro-optical communication including product design, electronic HW, embedded SW, and cloud service development[cite: 2]. Monitor the effectiveness of research & development and improve[cite: 2]. Execute workflow of IP Rights, QA, and cooperate with stakeholders & legals[cite: 2]. Manage budgets and schedules in line with requirements and collaborate with peers[cite: 2]. Establish and execute quality plans, aligning with overall business objectives[cite: 2]. Lead researchers and innovators to develop new products and technologies[cite: 2]. Identify new opportunities for research and innovation in the market[cite: 2]. Represent the organization in external forums and build strategic partnerships[cite: 2].
 
   - role: "Part-Time Instructor"[cite: 2]
     organization: "Information Systems Department of Okan University Graduate School"[cite: 2]
@@ -101,7 +98,7 @@ experience:
 
   - role: "R&D Advisor to Research Centers"[cite: 2]
     period: "Nov 2022 – Nov 2023"[cite: 2]
-    description: >
+    description:
       Besides supervising the ongoing innovation projects, co-author the proposals toward funds from the Ministry, EUREKA Clusters, and H-Europe[cite: 2].
     projects:
       - name: "NADIR"[cite: 2]
@@ -111,7 +108,7 @@ experience:
     organization: "KoçSistem Inc."[cite: 2]
     location: "İSTANBUL / TÜRKİYE"[cite: 2]
     period: "June 2018 – Nov 2022"[cite: 2]
-    description: >
+    description:
       Hundreds of document reviews and tens of project assessments as a member of the ITEA Steering Group[cite: 2]. Research to solve real-life problems and develop project scopes and objectives with a forward-thinking approach, involving all relevant stakeholders, performing risk management, and ensuring technical feasibility[cite: 2]. Detailed project plan and maintain comprehensive documentation, conforming to the resources[cite: 2]. Coordinate internal resources and third parties/vendors for the flawless execution, and collaborate with cross-functional teams and partners with commercial awareness[cite: 2]. Agile Project Management and ensure that all projects are delivered on time[cite: 2]. Hands on SW development experience parallel to management within the R&D&I projects, towards ITEA, Horizon and TÜBİTAK[cite: 2].
     projects:
       - name: "MOS2S"[cite: 2]
@@ -129,7 +126,7 @@ experience:
     organization: "ENTES Electronic Inc."[cite: 3]
     location: "İSTANBUL / TÜRKİYE"[cite: 3]
     period: "Oct 2016 - Mar 2018"[cite: 3]
-    description: >
+    description:
       With an R&D Team of 40+ persons and subcontractor companies, managed projects with the theme "electric energy reactive power control and consumption optimization", including product design, electronic HW, embedded SW, and cloud service development plan HW & SW development projects and supervise the run in Agile Fashion by means of Jira & Confluence[cite: 3]. Manage budgets and schedules in line with requirements and collaborate with peers[cite: 3]. Establish and execute quality plans, aligning with overall business objectives[cite: 3].
     projects:
       - name: "SPEAR"[cite: 3]
@@ -139,15 +136,13 @@ experience:
     organization: "AYMED Medical Inc."[cite: 3]
     location: "İSTANBUL / TÜRKİYE"[cite: 3]
     period: "Mar 2016 - Oct 2016"[cite: 3]
-    description: >
-      Research and develop software for Medical Electronics R&D projects in the concepts of Urology and Remote Patient Observation utilizing C#, .NET MVC, ASP.NET Web Forms, SQL, Oracle DB Servers, and Image Processing Libraries (DICOM, PACS, Eksor, OpenCV)[cite: 3].
+    description: Research and develop software for Medical Electronics R&D projects in the concepts of Urology and Remote Patient Observation utilizing C#, .NET MVC, ASP.NET Web Forms, SQL, Oracle DB Servers, and Image Processing Libraries (DICOM, PACS, Eksor, OpenCV)[cite: 3].
 
   - role: "R&D Engineer"[cite: 3]
     organization: "SİSOFT Healthcare Inc."[cite: 3]
     location: "ANKARA / TÜRKİYE"[cite: 3]
     period: "Dec 2014 - May 2015"[cite: 3]
-    description: >
-      Manage Hospital Management Localization Project[cite: 3]. Research on Arrhythmia Detection with Wearable Devices (government-funded project)[cite: 3]. Develop back-end and front-end of medical device data processing implementing Java, JavaScript, HTML5, and Oracle DB Server for hospital management system with service-oriented architecture[cite: 3].
+    description: Manage Hospital Management Localization Project[cite: 3]. Research on Arrhythmia Detection with Wearable Devices (government-funded project)[cite: 3]. Develop back-end and front-end of medical device data processing implementing Java, JavaScript, HTML5, and Oracle DB Server for hospital management system with service-oriented architecture[cite: 3].
 
   - role: "Researcher"[cite: 3]
     organization: "METU Graduate School of Informatics"[cite: 3]
